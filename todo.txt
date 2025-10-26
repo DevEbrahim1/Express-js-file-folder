@@ -1,0 +1,8 @@
+in the command line
+
+ - npm i 
+
+ to install necessary packages
+
+ and edit .env
+ add your mongourl and port
